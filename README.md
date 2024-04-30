@@ -41,3 +41,4 @@ Landing Page para activar las notificaciones Push de OneSignal y follow en redes
 <p>V3: </p>
 - No se utiliza Bootstrap <br>
 - Solo se usa CSS <br>
+- <strong>FALTA: </strong>el aro de luz no encuentro forma de ponerlo delante del background y detrás del botón de OneSignal
