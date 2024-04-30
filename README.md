@@ -25,14 +25,19 @@ Landing Page para activar las notificaciones Push de OneSignal y follow en redes
   </li>
 </ul>
 <hr>
-<p>Millores V2:</p>
-- metaetiqueta idioma <br>
-- metaetiqueta descripcions<br>
-- metaetiqueta favicon<br>
-- metaetiqueta robots<br>
-- favicons apple<br>
-- comentaris fora<br>
-- vista mòbil millorada<br>
-- no id repetits<br>
-- alt i title imagens corregits<br>
-- nou logo<br>
+<p>V2 Mejoras:</p>
+- Metaetiqueta Idioma <br>
+- Metaetiqueta Descripción<br>
+- Metaetiqueta Favicon<br>
+- Metaetiqueta Robots<br>
+- Favicons Apple<br>
+- Limpieza de comentarios<br>
+- Vista smartphone responsive mejorada<br>
+- Eliminación de IDs repetidos<br>
+- Corrección de etiquetas alt y title de las imágenes<br>
+- Nuevo logo añadido<br>
+
+<hr>
+<p>V3: </p>
+- No se utiliza Bootstrap <br>
+- Solo se usa CSS <br>
