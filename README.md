@@ -24,3 +24,15 @@ Landing Page para activar las notificaciones Push de OneSignal y follow en redes
     </ul>
   </li>
 </ul>
+<hr>
+<p>Millores V2:</p>
+- metaetiqueta idioma <br>
+- metaetiqueta descripcions<br>
+- metaetiqueta favicon<br>
+- metaetiqueta robots<br>
+- favicons apple<br>
+- comentaris fora<br>
+- vista mòbil millorada<br>
+- no id repetits<br>
+- alt i title imagens corregits<br>
+- nou logo<br>
